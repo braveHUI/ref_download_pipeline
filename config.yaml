@@ -1,0 +1,11 @@
+params:
+  ncbi_genome_download:
+    group: "protozoa"
+    thread: 10
+
+  build_database:
+    thread : 10
+
+
+
+

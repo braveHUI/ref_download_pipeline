@@ -1,0 +1,22 @@
+{
+  "__default__": {
+    "vf": "500M",
+    "p": "1",
+    "q": "all.q",
+    "name": "db.{rule}.{wildcards}",
+    "err": "logs/",
+    "std": "logs/"
+  },
+  "get_ncbi_genomes": {
+    "vf": "7G",
+    "p": "10"
+  },
+  "seqid2ncbi": {
+    "vf": "5G"
+
+  },
+  "get_file_name": {
+    "vf": "10G",
+    "p": "10"
+  }
+}
